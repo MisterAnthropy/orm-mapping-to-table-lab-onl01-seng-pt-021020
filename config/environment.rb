@@ -1,5 +1,6 @@
 require 'bundler'
 Bundler.require
+require 'SQLite3'
 
 require_relative '../lib/student'
 
